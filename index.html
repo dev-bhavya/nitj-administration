@@ -86,9 +86,6 @@
         }
 
         .tile1 {
-            width: 250px;
-            height: 200px;
-            
             background: linear-gradient(132.04deg, rgba(255, 255, 255, 0.1) 16.87%, rgba(255, 255, 255, 0.4) 75.02%);
             box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
             backdrop-filter: blur(40px);
@@ -280,34 +277,63 @@
             </div>
         </div>
     
-        <div class="flex flex-col items-start px-[11%] lg:py-[64px] lg:gap-[48px]">
-            <div class="w-[100%] flex flex-col lg:flex-row justify-between items-center lg:items-start gap-[24px] lg:gap-[64px]">
-                <div class="flex flex-row gap-[16px] lg:gap-[64px]">
-                    <div class="w-[150px] h-[100px] lg:w-[250px] lg:h-[200px] tile1 flex flex-col justify-center items-center p-[16px] gap-[16px] text-white">
-                        <i class="fa-solid fa-people-group text-[1.5em] lg:text-[2em]"></i>
-                        <p class="font2 font-semibold lg:text-[18px] leading-[22px] text-center">LEADERSHIP</p>
+        <div class="lg:hidden">
+            <div class="flex flex-col items-start px-[11%] lg:py-[64px] lg:gap-[48px]">
+                <div class="w-[100%] flex flex-col lg:flex-row justify-between items-center lg:items-start gap-[24px] lg:gap-[64px]">
+                    <div class="basis-1/2 flex flex-row gap-[16px] lg:gap-[64px]">
+                        <div class="w-[150px] h-[100px] lg:w-[250px] lg:h-[200px] tile1 flex flex-col justify-center items-center p-[16px] gap-[16px] text-white">
+                            <i class="fa-solid fa-people-group text-[1.5em] lg:text-[2em]"></i>
+                            <p class="font2 font-semibold lg:text-[18px] leading-[22px] text-center">LEADERSHIP</p>
+                        </div>
+                        <div class="w-[150px] h-[100px] lg:w-[250px] lg:h-[200px] tile1 flex flex-col justify-center items-center p-[16px] gap-[16px] text-white">
+                            <i class="fa-solid fa-building-columns text-[1.5em] lg:text-[2em]"></i>
+                            <p class="font2 font-semibold lg:text-[18px] leading-[22px] text-center">GOVERNING BODIES</p>
+                        </div>
                     </div>
-                    <div class="w-[150px] h-[100px] lg:w-[250px] lg:h-[200px] tile1 flex flex-col justify-center items-center p-[16px] gap-[16px] text-white">
-                        <i class="fa-solid fa-building-columns text-[1.5em] lg:text-[2em]"></i>
-                        <p class="font2 font-semibold lg:text-[18px] leading-[22px] text-center">GOVERNING BODIES</p>
+                    <div class="basis-1/2 flex flex-row gap-[16px] lg:gap-[64px]">
+                        <div class="w-[150px] h-[100px] lg:w-[250px] lg:h-[200px] tile1 flex flex-col justify-center items-center p-[16px] gap-[16px] text-white">
+                            <i class="fa-solid fa-circle-nodes text-[1.5em] lg:text-[2em]"></i>
+                            <p class="font2 font-semibold lg:text-[18px] leading-[22px] text-center">CELLS</p>
+                        </div>
+                        <div class="w-[150px] h-[100px] lg:w-[250px] lg:h-[200px] tile1 flex flex-col justify-center items-center p-[16px] gap-[16px] text-white">
+                            <i class="fa-solid fa-id-card-clip text-[1.5em] lg:text-[2em]"></i>
+                            <p class="font2 font-semibold lg:text-[18px] leading-[22px] text-center">COMMITTEES</p>
+                        </div>
                     </div>
                 </div>
-                <div class="flex flex-row gap-[16px] lg:gap-[64px]">
-                    <div class="w-[150px] h-[100px] lg:w-[250px] lg:h-[200px] tile1 flex flex-col justify-center items-center p-[16px] gap-[16px] text-white">
-                        <i class="fa-solid fa-circle-nodes text-[1.5em] lg:text-[2em]"></i>
-                        <p class="font2 font-semibold lg:text-[18px] leading-[22px] text-center">CELLS</p>
+            </div>
+        </div>
+
+        <div class="hidden lg:block">
+            <div class="flex flex-col items-start px-[11%] lg:py-[64px] lg:gap-[48px]">
+                <div class="w-[100%] flex flex-col lg:flex-row justify-between items-center gap-[48px]">
+                    <div class="basis-1/2 flex flex-row justify-between gap-[48px]">
+                        <div class="py-[6%] px-[10%] basis-1/2 tile1 flex flex-col justify-center items-center p-[16px] gap-[16px] text-white">
+                            <i class="fa-solid fa-people-group text-[1.5em] lg:text-[2em]"></i>
+                            <p class="font2 font-semibold lg:text-[18px] leading-[22px] text-center">LEADERSHIP<br> &nbsp;</p>
+                        </div>
+                        <div class="py-[6%] px-[10%] basis-1/2 tile1 flex flex-col justify-center items-center p-[16px] gap-[16px] text-white">
+                            <i class="fa-solid fa-building-columns text-[1.5em] lg:text-[2em]"></i>
+                            <p class="font2 font-semibold lg:text-[18px] leading-[22px] text-center">GOVERNING BODIES</p>
+                        </div>
                     </div>
-                    <div class="w-[150px] h-[100px] lg:w-[250px] lg:h-[200px] tile1 flex flex-col justify-center items-center p-[16px] gap-[16px] text-white">
-                        <i class="fa-solid fa-id-card-clip text-[1.5em] lg:text-[2em]"></i>
-                        <p class="font2 font-semibold lg:text-[18px] leading-[22px] text-center">COMMITTEES</p>
+                    <div class="basis-1/2 flex flex-row justify-between gap-[48px]">
+                        <div class="py-[6%] px-[10%] basis-1/2 tile1 flex flex-col justify-center items-center p-[16px] gap-[16px] text-white">
+                            <i class="fa-solid fa-circle-nodes text-[1.5em] lg:text-[2em]"></i>
+                            <p class="font2 font-semibold lg:text-[18px] leading-[22px] text-center">CELLS<br> &nbsp;</p>
+                        </div>
+                        <div class="py-[6%] px-[10%] basis-1/2 tile1 flex flex-col justify-center items-center p-[16px] gap-[16px] text-white">
+                            <i class="fa-solid fa-id-card-clip text-[1.5em] lg:text-[2em]"></i>
+                            <p class="font2 font-semibold lg:text-[18px] leading-[22px] text-center">COMMITTEES<br> &nbsp;</p>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     
-        <div class="flex flex-col items-start px-[11%] lg:text-[44px]">
+        <div class="flex flex-col items-start px-[11%] gap-[20px] lg:gap-[48px] lg:text-[44px]">
             <div class="flex flex-col items-start">
-                <p class="font2 font-semibold text-[28px] gap-[20px] lg:text-[44px]">INSTITUTE HISTORY</p>
+                <p class="font2 font-semibold text-[28px] lg:text-[44px]">INSTITUTE HISTORY</p>
                 <div class="bg-accent w-[25%] lg:w-[111px] h-[5px]"></div>
             </div>
             <p class="lg:text-[21px] lg:leading-[35px] text-justify">
