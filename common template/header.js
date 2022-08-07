@@ -509,7 +509,7 @@ document.write(`
                   Why NITJ?
                 </li>
                 <li class="hover:font-semibold hover:text-[#FF6600]">
-                  Explore NITJ
+                  <a href="https://dev-bhavya.github.io/nitj/explore">Explore NITJ</a>
                 </li>
                 <li class="hover:font-semibold hover:text-[#FF6600]">
                   Discover Student Life
@@ -821,7 +821,7 @@ document.write(`
                       Chariperson
                     </li>
                     <li class="hover:font-semibold hover:text-[#FF6600]">
-                      Director
+                      <a href="https://dev-bhavya.github.io/nitj/director">Director</a>
                     </li>
                     <li class="hover:font-semibold hover:text-[#FF6600]">
                       Registrar
@@ -861,7 +861,7 @@ document.write(`
                       NIT council
                     </li>
                     <li class="hover:font-semibold hover:text-[#FF6600]">
-                      Board of Governors
+                      <a href="https://dev-bhavya.github.io/nitj/governors">Board of Governors</a>
                     </li>
                     <li class="hover:font-semibold hover:text-[#FF6600]">
                       Senate
@@ -919,11 +919,11 @@ document.write(`
                 </div>
                 <div id="block">
                   <div id="head" class="mb-3 bg-accent py-2 text-center capitalize hover:bg-orange-500">
-                    COMMITTEES
+                    <a href="https://dev-bhavya.github.io/nitj/committees">COMMITTEES</a>
                   </div>
                   <ul class="flex flex-col gap-1 px-2 font-normal text-black">
                     <li class="hover:font-semibold hover:text-[#FF6600]">
-                      Institute Development Committee
+                      <a href="https://dev-bhavya.github.io/nitj/committees">Institute Development Committee</a>
                     </li>
                     <li class="hover:font-semibold hover:text-[#FF6600]">
                       Internal complaint committee
