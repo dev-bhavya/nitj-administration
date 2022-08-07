@@ -111,7 +111,7 @@ document.write(`
                       Virtual tour
                     </li>
                     <li class="hover:font-semibold hover:text-[#FF6600]">
-                      Institute History
+                      <a href="https://dev-bhavya.github.io/nitj/#history">Institute History</a>
                     </li>
                     <li class="hover:font-semibold hover:text-[#FF6600]">
                       Explore NITJ
@@ -139,7 +139,7 @@ document.write(`
                     Chariperson
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Director
+                    <a href="https://dev-bhavya.github.io/nitj/director">Director</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600]">
                     Registrar
@@ -178,7 +178,7 @@ document.write(`
                     NIT council
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Board of Governors
+                    <a href="https://dev-bhavya.github.io/nitj/governors">Board of Governors</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600]">
                     Senate
@@ -241,7 +241,7 @@ document.write(`
                 <div class="p-2 text-center">COMMITTEES</div>
                 <ul class="flex flex-col gap-1 rounded-b-xl bg-white px-2 font-normal text-black">
                   <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Institute Development Committee
+                    <a href="https://dev-bhavya.github.io/nitj/committees">Institute Development Committee</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600]">
                     Internal complaint committee
