@@ -101,11 +101,11 @@ document.write(`
             class="flex flex-col gap-5 hover:rounded-b-xl hover:border-2 hover:border-orange-500 hover:bg-orange-500">
             <div id="block" class="h-full">
               <div id="head" class="h-full overflow-clip rounded-b-2xl bg-accent capitalize hover:bg-orange-500">
-                <div class="p-2 text-center">ABOUT US</div>
+                <div class="p-2 text-center"><a href="https://dev-bhavya.github.io/nitj/">ABOUT US</a></div>
                 <div class="h-full bg-white">
                   <ul class="flex flex-col gap-1 rounded-b-xl px-2 font-normal text-black">
                     <li class="hover:font-semibold hover:text-[#FF6600]">
-                      Vision, Mission & Quality Policy
+                      <a href="https://dev-bhavya.github.io/nitj/#vision-mission">Vision, Mission & Quality Policy</a>
                     </li>
                     <li class="hover:font-semibold hover:text-[#FF6600]">
                       Virtual tour
