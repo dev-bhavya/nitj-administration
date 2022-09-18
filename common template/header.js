@@ -104,20 +104,20 @@ document.write(`
                 <div class="p-2 text-center"><a href="https://dev-bhavya.github.io/nitj/">ABOUT US</a></div>
                 <div class="h-full bg-white">
                   <ul class="flex flex-col gap-1 rounded-b-xl px-2 font-normal text-black">
-                    <li class="hover:font-semibold hover:text-[#FF6600]">
+                    <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
                       <a href="https://dev-bhavya.github.io/nitj/#vision-mission">Vision, Mission & Quality Policy</a>
                     </li>
-                    <li class="hover:font-semibold hover:text-[#FF6600]">
-                      Virtual tour
+                    <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                      <a href="https://dev-bhavya.github.io/nitj/virtualtour.html">Virtual tour</a>
                     </li>
-                    <li class="hover:font-semibold hover:text-[#FF6600]">
+                    <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
                       <a href="https://dev-bhavya.github.io/nitj/#history">Institute History</a>
                     </li>
-                    <li class="hover:font-semibold hover:text-[#FF6600]">
-                      Explore NITJ
+                    <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                      <a href="https://dev-bhavya.github.io/nitj/explore.html">Explore NITJ</a>
                     </li>
-                    <li class="hover:font-semibold hover:text-[#FF6600]">
-                      NITJ Rankings & Awards
+                    <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                      <a href="ranking.html">NITJ Rankings & Awards</a>
                     </li>
                     <li class="hover:font-semibold hover:text-[#FF6600]">
                       Institute Prospectus Location
@@ -136,31 +136,31 @@ document.write(`
                     Organisational Chart
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Chariperson
+                    <a href="https://dev-bhavya.github.io/nitj/chairperson.html">Chairperson</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600]">
-                    <a href="https://dev-bhavya.github.io/nitj/director">Director</a>
+                    <a href="https://dev-bhavya.github.io/nitj/director.html">Director</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Registrar
+                    <a href="https://dev-bhavya.github.io/nitj/registrar.html">Registrar</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Academic administration
+                    <a href="https://dev-bhavya.github.io/nitj/adminstration.html/#academic-adminstration">Academic administration</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Student Welfare
+                    <a href="https://dev-bhavya.github.io/nitj/adminstration.html/#student-welfare">Student Welfare</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Faculty Welfare
+                    <a href="https://dev-bhavya.github.io/nitj/adminstration.html/#faculty-welfare">Faculty Welfare</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Planning and Development
+                    <a href="https://dev-bhavya.github.io/nitj/adminstration.html/#academic-adminstration/#planning-development">Planning and Development</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Research and Consultancy
+                    <a href="https://dev-bhavya.github.io/nitj/adminstration.html/#research-consultancy">Research and Consultancy</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600]">
-                    International Affairs
+                    <a href="https://dev-bhavya.github.io/nitj/adminstration.html/#international-affairs">International Affairs</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600]">
                     Hostel administration
