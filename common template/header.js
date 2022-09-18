@@ -241,19 +241,19 @@ document.write(`
                 <div class="p-2 text-center">COMMITTEES</div>
                 <ul class="flex flex-col gap-1 rounded-b-xl bg-white px-2 font-normal text-black">
                   <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
-                    <a href="https://dev-bhavya.github.io/nitj/committees.html/#institute-development">Institute Development Committee</a>
+                    <a href="https://dev-bhavya.github.io/nitj/committees.html#institute-development">Institute Development Committee</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
-                    <a href="https://dev-bhavya.github.io/nitj/committees.html/#internal-complaint">Internal complaint committee</a>
+                    <a href="https://dev-bhavya.github.io/nitj/committees.html#internal-complaint">Internal complaint committee</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
-                    <a href="https://dev-bhavya.github.io/nitj/committees.html/#print-digital">Print, Digital Media and Newsletter</a>
+                    <a href="https://dev-bhavya.github.io/nitj/committees.html#print-digital">Print, Digital Media and Newsletter</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
-                    <a href="https://dev-bhavya.github.io/nitj/committees.html/#social-media">Social Media</a>
+                    <a href="https://dev-bhavya.github.io/nitj/committees.html#social-media">Social Media</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
-                    <a href="https://dev-bhavya.github.io/nitj/committees.html/#website-management">Website Development and Management</a>
+                    <a href="https://dev-bhavya.github.io/nitj/committees.html#website-management">Website Development and Management</a>
                   </li>
                 </ul>
               </div>
