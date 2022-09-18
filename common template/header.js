@@ -145,22 +145,22 @@ document.write(`
                     <a href="https://dev-bhavya.github.io/nitj/registrar.html">Registrar</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
-                    <a href="https://dev-bhavya.github.io/nitj/administration.html/#academic-administration">Academic administration</a>
+                    <a href="https://dev-bhavya.github.io/nitj/administration.html#academic-administration">Academic administration</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
-                    <a href="https://dev-bhavya.github.io/nitj/administration.html/#student-welfare">Student Welfare</a>
+                    <a href="https://dev-bhavya.github.io/nitj/administration.html#student-welfare">Student Welfare</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
-                    <a href="https://dev-bhavya.github.io/nitj/administration.html/#faculty-welfare">Faculty Welfare</a>
+                    <a href="https://dev-bhavya.github.io/nitj/administration.html#faculty-welfare">Faculty Welfare</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
-                    <a href="https://dev-bhavya.github.io/nitj/administration.html/#academic-administration/#planning-development">Planning and Development</a>
+                    <a href="https://dev-bhavya.github.io/nitj/administration.html#planning-development">Planning and Development</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
-                    <a href="https://dev-bhavya.github.io/nitj/administration.html/#research-consultancy">Research and Consultancy</a>
+                    <a href="https://dev-bhavya.github.io/nitj/administration.html#research-consultancy">Research and Consultancy</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
-                    <a href="https://dev-bhavya.github.io/nitj/administration.html/#international-affairs">International Affairs</a>
+                    <a href="https://dev-bhavya.github.io/nitj/administration.html#international-affairs">International Affairs</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600]">
                     Hostel administration
