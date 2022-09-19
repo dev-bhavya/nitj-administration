@@ -202,9 +202,9 @@ document.write(`
           <div id="col" class="flex flex-col gap-5 hover:rounded-b-xl hover:border-2 hover:border-orange-500">
             <div id="block">
               <div id="head" class="rounded-b-2xl bg-accent capitalize hover:bg-orange-500">
-                <div class="p-2 text-center">CELLS</div>
+                <div class="p-2 text-center"><a href="https://dev-bhavya.github.io/nitj/e-cell.html">CELLS</a></div>
                 <ul class="flex flex-col gap-1 rounded-b-xl bg-white px-2 font-normal text-black">
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
                     <a href="https://dev-bhavya.github.io/nitj/e-cell.html">E-Cell</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600]">
@@ -213,26 +213,26 @@ document.write(`
                   <li class="hover:font-semibold hover:text-[#FF6600]">
                     SC/ST/OBC/PWD cell
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Rajbhasha cell
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/rajsabha-cell.html">Rajbhasha cell</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600]">
                     RTI Cell
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Student grievences cell
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/student-g-cell.html">Student grievences cell</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Faculty grievences cell
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/faculty-g-cell.html">Faculty grievences cell</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Staff grievences cell
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/staff-g-cell.html">Staff grievences cell</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Public grievences
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/public-g-cell.html">Public grievences</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Women cell
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/women-cell.html">Women cell</a>
                   </li>
                 </ul>
               </div>
