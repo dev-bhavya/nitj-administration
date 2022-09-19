@@ -120,7 +120,10 @@ document.write(`
                       <a href="ranking.html">NITJ Rankings & Awards</a>
                     </li>
                     <li class="hover:font-semibold hover:text-[#FF6600]">
-                      Institute Prospectus Location
+                      Institute Prospectus
+                    </li>
+                    <li class="hover:font-semibold hover:text-[#FF6600]">
+                      Location
                     </li>
                   </ul>
                 </div>
@@ -130,7 +133,7 @@ document.write(`
           <div id="col" class="flex flex-col gap-5 hover:rounded-b-xl hover:border-2 hover:border-orange-500">
             <div id="block">
               <div id="head" class="rounded-b-2xl bg-accent capitalize hover:bg-orange-500">
-                <div class="p-2 text-center">LEADERSHIP</div>
+                <div class="p-2 text-center"><a href="https://dev-bhavya.github.io/nitj/chairperson.html">LEADERSHIP</a></div>
                 <ul class="flex flex-col gap-1 rounded-b-xl bg-white px-2 font-normal text-black">
                   <li class="hover:font-semibold hover:text-[#FF6600]">
                     Organisational Chart
@@ -172,7 +175,7 @@ document.write(`
           <div id="col" class="flex flex-col gap-5 hover:rounded-b-xl hover:border-2 hover:border-orange-500">
             <div id="block">
               <div id="head" class="rounded-b-2xl bg-accent capitalize hover:bg-orange-500">
-                <div class="p-2 text-center">GOVERNING BODIES</div>
+                <div class="p-2 text-center"><a href="https://dev-bhavya.github.io/nitj/council.html">GOVERNING BODIES</a></div>
                 <ul class="flex flex-col gap-1 rounded-b-xl bg-white px-2 font-normal text-black">
                   <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
                     <a href="https://dev-bhavya.github.io/nitj/council.html">NIT council</a>
@@ -202,7 +205,7 @@ document.write(`
                 <div class="p-2 text-center">CELLS</div>
                 <ul class="flex flex-col gap-1 rounded-b-xl bg-white px-2 font-normal text-black">
                   <li class="hover:font-semibold hover:text-[#FF6600]">
-                    E-Cell
+                    <a href="https://dev-bhavya.github.io/nitj/e-cell.html">E-Cell</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600]">
                     Equal opportunities and
@@ -238,7 +241,7 @@ document.write(`
           <div id="col" class="flex flex-col gap-5 hover:rounded-b-xl hover:border-2 hover:border-orange-500">
             <div id="block">
               <div id="head" class="rounded-b-2xl bg-accent capitalize hover:bg-orange-500">
-                <div class="p-2 text-center">COMMITTEES</div>
+                <div class="p-2 text-center"><a href="https://dev-bhavya.github.io/nitj/committees.html">COMMITTEES</a></div>
                 <ul class="flex flex-col gap-1 rounded-b-xl bg-white px-2 font-normal text-black">
                   <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
                     <a href="https://dev-bhavya.github.io/nitj/committees.html#institute-development">Institute Development Committee</a>
@@ -811,7 +814,7 @@ document.write(`
                 class="flex min-w-max flex-col gap-5 hover:rounded-b-xl hover:border-2 hover:border-orange-500">
                 <div id="block">
                   <div id="head" class="mb-3 bg-accent py-2 text-center capitalize hover:bg-orange-500">
-                    LEADERSHIP
+                    <a href="">LEADERSHIP</a>
                   </div>
                   <ul class="flex flex-col gap-1 px-2 font-normal text-black">
                     <li class="hover:font-semibold hover:text-[#FF6600]">
