@@ -83,6 +83,23 @@
       background-position: center;
       background-size: cover;
     }
+
+    #gal1 {
+      animation: fadeEffect 1s;
+      /* Fading effect takes 1 second */
+    }
+
+    @keyframes fadeEffect {
+
+      /* Go from zero to full opacity */
+      from {
+        opacity: 0;
+      }
+
+      to {
+        opacity: 1;
+      }
+    }
   </style>
 </head>
 
@@ -92,22 +109,21 @@
   <div class="flex flex-col gap-8 lg:gap-12 mt-64 lg:mt-32 mb-24">
     <div>
       <div class="titlebg flex flex-col justify-center items-start h-[224px] px-4 lg:px-[11%] py-[48px]">
-        <p class="font2 font-bold text-[52px] lg:text-[88px] uppercase text-white leading-[1]">Explore NITJ</p>
+        <p class="font2 font-bold text-[52px] lg:text-[88px] uppercase text-white leading-[1]">Explore</p>
       </div>
-      <nav class="flex px-4 lg:px-[11%] bg-gray-700 py-[8px] text-white" aria-label="Breadcrumb">
+      <nav class="flex px-4 lg:px-[11%] bg-gray-200 py-[8px] text-black" aria-label="Breadcrumb">
         <ol class="inline-flex items-center">
           <li class="inline-flex items-center">
             <a href="https://nitj.netlify.app/"
               class="inline-flex items-center text-sm font-medium hover:text-gray-900">
-              <!-- <i class="fa-solid fa-house"></i> -->
-              <p class="ml-3 text-lg">Home</p>
+              <a href="#" class="text-lg font-medium ml-2">Home</a>
             </a>
           </li>
           <li aria-current="page">
             <div class="inline-flex items-center">
-              <!-- <i class="fa-solid fa-angle-right ml-2"></i> -->
-              <p class="ml-2"> /</p>
-              <a href="#" class="text-lg font-medium hover:text-gray-900 ml-2">Explore</a>
+              <i style="color: rgb(128, 128, 128); font-size: 12px; margin-left: 12px"
+                class="fa-solid fa-angle-right ml-2"></i>
+              <a href="#" class="text-lg font-medium ml-2">Explore</a>
             </div>
           </li>
         </ol>
@@ -149,7 +165,7 @@
       </div>
     </section>
 
-    <div class="flex gap-4 items-stretch overflow-x-scroll mx-[11%]" id="imgContainer">
+    <!-- <div class="flex gap-4 items-stretch overflow-x-scroll mx-[11%]" id="imgContainer">
       <div class="inline-block"><div class="w-[250px] h-[200px] mb-6"><img class="block object-cover object-center w-full h-full rounded-lg" src="img/IMG-20220721-WA0020.jpg" alt=""></div></div>
       <div class="inline-block"><div class="w-[250px] h-[200px] mb-6"><img class="block object-cover object-center w-full h-full rounded-lg" src="img/IMG-20220721-WA0021.jpg" alt=""></div></div>
       <div class="inline-block"><div class="w-[250px] h-[200px] mb-6"><img class="block object-cover object-center w-full h-full rounded-lg" src="img/IMG-20220721-WA0022.jpg" alt=""></div></div>
@@ -170,7 +186,7 @@
       <div class="inline-block"><div class="w-[250px] h-[200px] mb-6"><img class="block object-cover object-center w-full h-full rounded-lg" src="img/IMG-20220721-WA0023.jpg" alt=""></div></div>
       <div class="inline-block"><div class="w-[250px] h-[200px] mb-6"><img class="block object-cover object-center w-full h-full rounded-lg" src="img/IMG-20220721-WA0024.jpg" alt=""></div></div>
       <div class="inline-block"><div class="w-[250px] h-[200px] mb-6"><img class="block object-cover object-center w-full h-full rounded-lg" src="img/IMG-20220721-WA0027.jpg" alt=""></div></div>
-    </div>
+    </div> -->
   </div>
 
 
@@ -198,7 +214,7 @@
     setInterval(setgal, 2500);
   </script>
 
-  <script>
+  <!-- <script>
     // auto scroll script
     const imgContainer = document.getElementById('imgContainer');
     const imgScrollWidth = imgContainer.scrollWidth;
@@ -211,7 +227,7 @@
       }, 1);
     });
     
-  </script>
+  </script> -->
 </body>
 
 </html>

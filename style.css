@@ -7,6 +7,63 @@
 2. Allow adding a border to an element by just adding a border-width. (https://github.com/tailwindcss/tailwindcss/pull/116)
 */
 
+
+/*========= Custom CSS =========*/
+
+/* Customizing the Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(30, 58, 138, 1);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: gray;
+}
+
+::-webkit-resizer {
+  background-color: #ffffff;
+}
+
+.material-symbols-outlined {
+  font-variation-settings: "FILL"0, "wght"300, "grad"0, "opzs"20;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+/* font-family: 'Barlow', sans-serif;
+font-family: 'Poppins', sans-serif; */
+
+.font2 {
+  font-family: 'Barlow', sans-serif;
+}
+
+:root {
+  --primary-color: #fff;
+  --background-color: #212121;
+
+  --blue-color: #0369A1;
+  --light-blue-color: #F6F6FE;
+  --purple-color: #040320;
+  --font1: 'Poppins', sans-serif;
+  --font2: 'Barlow', sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font1);
+}
+
+
 *,
 ::before,
 ::after {

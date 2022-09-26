@@ -104,23 +104,26 @@ document.write(`
                 <div class="p-2 text-center"><a href="https://dev-bhavya.github.io/nitj/">ABOUT US</a></div>
                 <div class="h-full bg-white">
                   <ul class="flex flex-col gap-1 rounded-b-xl px-2 font-normal text-black">
-                    <li class="hover:font-semibold hover:text-[#FF6600]">
+                    <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
                       <a href="https://dev-bhavya.github.io/nitj/#vision-mission">Vision, Mission & Quality Policy</a>
                     </li>
-                    <li class="hover:font-semibold hover:text-[#FF6600]">
-                      Virtual tour
+                    <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                      <a href="https://dev-bhavya.github.io/nitj/virtualtour.html">Virtual tour</a>
                     </li>
-                    <li class="hover:font-semibold hover:text-[#FF6600]">
+                    <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
                       <a href="https://dev-bhavya.github.io/nitj/#history">Institute History</a>
                     </li>
-                    <li class="hover:font-semibold hover:text-[#FF6600]">
-                      Explore NITJ
+                    <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                      <a href="https://dev-bhavya.github.io/nitj/explore.html">Explore NITJ</a>
+                    </li>
+                    <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                      <a href="ranking.html">NITJ Rankings & Awards</a>
                     </li>
                     <li class="hover:font-semibold hover:text-[#FF6600]">
-                      NITJ Rankings & Awards
+                      Institute Prospectus
                     </li>
                     <li class="hover:font-semibold hover:text-[#FF6600]">
-                      Institute Prospectus Location
+                      Location
                     </li>
                   </ul>
                 </div>
@@ -130,37 +133,37 @@ document.write(`
           <div id="col" class="flex flex-col gap-5 hover:rounded-b-xl hover:border-2 hover:border-orange-500">
             <div id="block">
               <div id="head" class="rounded-b-2xl bg-accent capitalize hover:bg-orange-500">
-                <div class="p-2 text-center">LEADERSHIP</div>
+                <div class="p-2 text-center"><a href="https://dev-bhavya.github.io/nitj/chairperson.html">LEADERSHIP</a></div>
                 <ul class="flex flex-col gap-1 rounded-b-xl bg-white px-2 font-normal text-black">
                   <li class="hover:font-semibold hover:text-[#FF6600]">
                     Organisational Chart
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Chariperson
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/chairperson.html">Chairperson</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    <a href="https://dev-bhavya.github.io/nitj/director">Director</a>
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/director.html">Director</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Registrar
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/registrar.html">Registrar</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Academic administration
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/administration.html#academic-administration">Academic administration</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Student Welfare
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/administration.html#student-welfare">Student Welfare</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Faculty Welfare
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/administration.html#faculty-welfare">Faculty Welfare</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Planning and Development
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/administration.html#planning-development">Planning and Development</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Research and Consultancy
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/administration.html#research-consultancy">Research and Consultancy</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    International Affairs
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/administration.html#international-affairs">International Affairs</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600]">
                     Hostel administration
@@ -172,25 +175,25 @@ document.write(`
           <div id="col" class="flex flex-col gap-5 hover:rounded-b-xl hover:border-2 hover:border-orange-500">
             <div id="block">
               <div id="head" class="rounded-b-2xl bg-accent capitalize hover:bg-orange-500">
-                <div class="p-2 text-center">GOVERNING BODIES</div>
+                <div class="p-2 text-center"><a href="https://dev-bhavya.github.io/nitj/council.html">GOVERNING BODIES</a></div>
                 <ul class="flex flex-col gap-1 rounded-b-xl bg-white px-2 font-normal text-black">
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    NIT council
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/council.html">NIT council</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    <a href="https://dev-bhavya.github.io/nitj/governors">Board of Governors</a>
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/governors.html">Board of Governors</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Senate
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/senate.html">Senate</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Standing committee of the senate
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/senate">Standing committee of the senate</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Finance committee
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/senate.html">Finance committee</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Building and works committee
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/senate.html">Building and works committee</a>
                   </li>
                 </ul>
               </div>
@@ -199,10 +202,10 @@ document.write(`
           <div id="col" class="flex flex-col gap-5 hover:rounded-b-xl hover:border-2 hover:border-orange-500">
             <div id="block">
               <div id="head" class="rounded-b-2xl bg-accent capitalize hover:bg-orange-500">
-                <div class="p-2 text-center">CELLS</div>
+                <div class="p-2 text-center"><a href="https://dev-bhavya.github.io/nitj/e-cell.html">CELLS</a></div>
                 <ul class="flex flex-col gap-1 rounded-b-xl bg-white px-2 font-normal text-black">
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    E-Cell
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/e-cell.html">E-Cell</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600]">
                     Equal opportunities and
@@ -210,26 +213,26 @@ document.write(`
                   <li class="hover:font-semibold hover:text-[#FF6600]">
                     SC/ST/OBC/PWD cell
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Rajbhasha cell
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/rajsabha-cell.html">Rajbhasha cell</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600]">
                     RTI Cell
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Student grievences cell
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/student-g-cell.html">Student grievences cell</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Faculty grievences cell
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/faculty-g-cell.html">Faculty grievences cell</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Staff grievences cell
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/staff-g-cell.html">Staff grievences cell</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Public grievences
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/public-g-cell.html">Public grievences</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Women cell
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/women-cell.html">Women cell</a>
                   </li>
                 </ul>
               </div>
@@ -238,22 +241,22 @@ document.write(`
           <div id="col" class="flex flex-col gap-5 hover:rounded-b-xl hover:border-2 hover:border-orange-500">
             <div id="block">
               <div id="head" class="rounded-b-2xl bg-accent capitalize hover:bg-orange-500">
-                <div class="p-2 text-center">COMMITTEES</div>
+                <div class="p-2 text-center"><a href="https://dev-bhavya.github.io/nitj/committees.html">COMMITTEES</a></div>
                 <ul class="flex flex-col gap-1 rounded-b-xl bg-white px-2 font-normal text-black">
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    <a href="https://dev-bhavya.github.io/nitj/committees">Institute Development Committee</a>
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/committees.html#institute-development">Institute Development Committee</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Internal complaint committee
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/committees.html#internal-complaint">Internal complaint committee</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Print, Digital Media and Newsletter
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/committees.html#print-digital">Print, Digital Media and Newsletter</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Social Media
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/committees.html#social-media">Social Media</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Website Development and Management
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/committees.html#website-management">Website Development and Management</a>
                   </li>
                 </ul>
               </div>
@@ -811,7 +814,7 @@ document.write(`
                 class="flex min-w-max flex-col gap-5 hover:rounded-b-xl hover:border-2 hover:border-orange-500">
                 <div id="block">
                   <div id="head" class="mb-3 bg-accent py-2 text-center capitalize hover:bg-orange-500">
-                    LEADERSHIP
+                    <a href="">LEADERSHIP</a>
                   </div>
                   <ul class="flex flex-col gap-1 px-2 font-normal text-black">
                     <li class="hover:font-semibold hover:text-[#FF6600]">
