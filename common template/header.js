@@ -119,11 +119,11 @@ document.write(`
                     <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
                       <a href="ranking.html">NITJ Rankings & Awards</a>
                     </li>
-                    <li class="hover:font-semibold hover:text-[#FF6600]">
-                      Institute Prospectus
+                    <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                      <a href="https://drive.google.com/file/d/1iQraSeXVHabN4_Y_4rUK3cUET7TiR7ts/view?usp=sharing">Institute Prospectus</a>
                     </li>
-                    <li class="hover:font-semibold hover:text-[#FF6600]">
-                      Location
+                    <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                      <a href="https://dev-bhavya.github.io/nitj/location.html">Location</a>
                     </li>
                   </ul>
                 </div>
@@ -135,8 +135,8 @@ document.write(`
               <div id="head" class="rounded-b-2xl bg-accent capitalize hover:bg-orange-500">
                 <div class="p-2 text-center"><a href="https://dev-bhavya.github.io/nitj/chairperson.html">LEADERSHIP</a></div>
                 <ul class="flex flex-col gap-1 rounded-b-xl bg-white px-2 font-normal text-black">
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Organisational Chart
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/oc.html">Organisational Chart</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
                     <a href="https://dev-bhavya.github.io/nitj/chairperson.html">Chairperson</a>
@@ -165,8 +165,8 @@ document.write(`
                   <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
                     <a href="https://dev-bhavya.github.io/nitj/administration.html#international-affairs">International Affairs</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Hostel administration
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/hostel.html">Hostel Administration</a>
                   </li>
                 </ul>
               </div>
@@ -207,17 +207,17 @@ document.write(`
                   <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
                     <a href="https://dev-bhavya.github.io/nitj/e-cell.html">E-Cell</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    Equal opportunities and
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/e-cell.html">Equal opportunities and</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    SC/ST/OBC/PWD cell
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/e-cell.html">SC/ST/OBC/PWD cell</a>  
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
                     <a href="https://dev-bhavya.github.io/nitj/rajsabha-cell.html">Rajbhasha cell</a>
                   </li>
-                  <li class="hover:font-semibold hover:text-[#FF6600]">
-                    RTI Cell
+                  <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
+                    <a href="https://dev-bhavya.github.io/nitj/rajsabha-cell.html">RTI Cell</a>
                   </li>
                   <li class="hover:font-semibold hover:text-[#FF6600] text-green-500">
                     <a href="https://dev-bhavya.github.io/nitj/student-g-cell.html">Student grievences cell</a>
